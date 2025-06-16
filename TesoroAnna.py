@@ -23,7 +23,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text("Perfecto mi reina linda🕺, ahora tu tarea 🕵️‍♀️, es averiguar las palabras correctas 🔍que te llevarán a la siguiente aventura.🧗‍♀️.. Tu peux y arriver, mon amour. Ne lâche pas ma main  🫱et continuons à marcher dans cette grande aventure d’amour ! 💖")
 
     elif "je serai la" in text:
-        await update.message.reply_text("Je savais que tu y arriverais, mon amour… Comme toujours, je suis tellement fier de toi 💝.\nMaintenant, je veux que tu prennes ta rame et que tu vogues 🚣 jusqu’à trouver l’île perdue du trésor qui t’appartient.\nJe te laisse la rame pour que tu puisses avancer 🛶.") 
+        await update.message.reply_text("Je savais que tu y arriverais, mon amour… Comme toujours, je suis tellement fier de toi 💝.\nMaintenant, je veux que tu prennes ta rame et que tu vogues 🚣 jusqu’à trouver l’île perdue du trésor qui t’appartient.\nJe te laisse la rame pour que tu puisses avancer 🛶.\n\nhttps://hab.me/SMgZg8Z") 
 
     else:
         await update.message.reply_text("Amorcito 😘 \nUn esfuerzo más 💪podría ser clave para descubrir lo que hay más allá de Orión,👀 en donde estaremos juntos. \nTe espero allí,✨ Solo faltas tú")
